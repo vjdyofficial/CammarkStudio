@@ -22,7 +22,7 @@ Leica Camera Watermark, shorten as CWM created by the Chinese Developer, **Yucha
 
 - **Subtitle** `Specify the author of the captured photo, source or any notes. Click the Eye button to hide or unhide the layer.`
 
-- **Description** `Type your optional description! If you are generated your description with AI. Please add "Generated from _specific app_"`
+- **Description** `Type your optional description! If you are generated your description with AI, Please add "Generated from _specific app_"`
 
 - **Body** `Add the location, coordinates, or even your social media handle.`
 
@@ -30,7 +30,9 @@ Leica Camera Watermark, shorten as CWM created by the Chinese Developer, **Yucha
 
 
 
-Click `Apply Parameters` Button to update the preview canvas. Click `Reset Parameters` Button to clear all changes.
+Click `Apply Parameters` Button to update the preview canvas. 
+
+Click `Reset Parameters` Button to clear all changes.
 
 Click `Set Date` to select the date without typing.
 
